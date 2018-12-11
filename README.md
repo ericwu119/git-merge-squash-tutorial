@@ -7,3 +7,5 @@ make feature change #4
 make feature change #5
 make feature change #6
 make feature change #6-1
+make feature change #7
+make feature change #7-1
