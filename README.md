@@ -1,3 +1,4 @@
 Github merge squash tutorinal
 this tutorial demo how to do merge vs rebase
-this is master change
+add change for feature #2 to only apply to feature branch
+additional master change
